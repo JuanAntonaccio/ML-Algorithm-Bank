@@ -9,6 +9,8 @@ requests==2.27.1
 numpy>=1.18.5
 opencv-python>=4.1.2
 matplotlib>=3.2.2
+seaborn
+plotly
 ipyleaflet>=0.14.0
 sympy>=1.10.1
 
